@@ -1,0 +1,6 @@
+framework module Pods_mssapp_testTests {
+  umbrella header "Pods-mssapp_testTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
