@@ -9,6 +9,8 @@ there iam using a blurView in front of the image.
 4)  if the user want to add a. movie to the list , click on add movie , that will open a scanner viewcontroller .
 i am also using there a delegate protcole(build in) to detecte if the QRCOde as been detected,
 if so i am displaying the result in the detailsViewController.
-5) finally to reloade the recyclerview just pull to refresh the recyler and the new movie will appear
+5) finally to reloade the recyclerview just pull to refresh the recyler and the new movie will appear.
+
+
 the used Harry potter QRCODE Movie : 
 ![](Qrcode.png)
